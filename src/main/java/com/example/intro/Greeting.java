@@ -20,7 +20,7 @@ import java.util.List;
 
         @GetMapping("/getGhanaGreeting")
         public String getGhanianGreetings(){
-            return "Ina Kuana";
+            return "Ina";
         };
 
         @GetMapping("/getHausaGreeting")
